@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cozyatnight.com/sitemap.xml
+Sitemap: https://cozyatnight.vercel.app/sitemap.xml
